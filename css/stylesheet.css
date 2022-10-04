@@ -1,7 +1,8 @@
 
-.heading
+/* .heading
 {
     color:red;
+    background-color: lightblue;
 
 }
 
@@ -10,7 +11,22 @@ p.capitalPara
     background-color:beige
 }
 
-#h2
+#firsth2
 {
     background-color: pink;
+}
+
+.heading.london
+{
+    color:navy
+} */
+
+#ottawa
+{
+    color: black;
+}
+
+#top
+{
+    color:black 
 }
