@@ -21,7 +21,7 @@ p.capitalPara
     color:navy
 } */
 
-#ottawa
+/* #ottawa
 {
     color: black;
 }
@@ -29,4 +29,19 @@ p.capitalPara
 #top
 {
     color:black 
+} */
+
+
+.span
+{
+    padding: 0, 5px;
+    border-top: solid 2px black; 
+    border-bottom: solid 4px gray;
+}
+.paragraph
+{
+    border: 10px lightgreen;
+    border-style: ridge;
+    margin: 5px;
+    border-width: 10px;
 }
